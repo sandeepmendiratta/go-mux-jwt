@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b076022-12f1-421d-a73f-d70d3dce47a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Gopkg.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gopkg.toml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.2_1/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoDepProject">
+    <integration-enabled>true</integration-enabled>
+    <exec-path>/usr/local/bin/dep</exec-path>
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1dZ6jIIpPUFR0S2o6pdjkJcRZ36" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.dep.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-mux-jwt" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestHome in main_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go-mux-jwt" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/main_test.go" />
+      <pattern value="^TestHome$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMetacortex in main_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go-mux-jwt" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main_test.go" />
+      <pattern value="^TestMetacortex$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Test.TestHome in main_test.go" />
+        <item itemvalue="Go Test.TestMetacortex in main_test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="371" key="#Dep" timestamp="1592620438089">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="440" y="371" key="#Dep/0.0.1280.800@0.0.1280.800" timestamp="1592620438089" />
+    <state width="1238" height="174" key="GridCell.Tab.0.bottom" timestamp="1592622632156">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="174" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1592622632156" />
+    <state width="1238" height="174" key="GridCell.Tab.0.center" timestamp="1592622632155">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="174" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1592622632155" />
+    <state width="1238" height="174" key="GridCell.Tab.0.left" timestamp="1592622632154">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="174" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1592622632154" />
+    <state width="1238" height="174" key="GridCell.Tab.0.right" timestamp="1592622632155">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="174" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1592622632155" />
+    <state x="365" y="117" width="598" height="490" key="find.popup" timestamp="1592621969189">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="365" y="117" width="598" height="490" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1592621969189" />
+  </component>
+</project>
